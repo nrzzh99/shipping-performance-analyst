@@ -1,5 +1,5 @@
 # shipping-performance-analyst
-Objective :
+Objective : menganalisis permasalahan Shipping dan Stock performance pada Q1 dan Q2 di tahun 2023
 
 # Latar Belakang Masalah :
 Perusahaan retail seringkali menghadapi tantangan dalam mengelola operasi pengiriman dan stok barang. Pengiriman yang tidak efisien dan persediaan yang tidak terkelola dengan baik dapat berdampak negatif pada pengalaman pelanggan, biaya operasional, dan akhirnya pada hasil bisnis secara keseluruhan. Oleh karena itu, penting untuk melakukan analisis terhadap kinerja pengiriman dan persediaan pada periode tertentu untuk mengidentifikasi masalah dan peluang perbaikan.
