@@ -19,4 +19,5 @@ Data ini berasal dari Big Query dengn nama thelook_ecommerce memiliki 5 data yan
 - Berdasarkan analisis kategori produk yang sering dikirimkan dan terjual, perusahaan dapat berfokus pada inovasi produk yang paling diminati oleh pelanggan. Selain itu, strategi promosi yang tepat dapat membantu dalam meningkatkan daya tarik produk dan mempengaruhi keputusan pembelian pelanggan.
 
 Link Dashboard : https://lookerstudio.google.com/reporting/d5c2614b-aeab-468c-b29a-83f66978b699
+
 Link ppt : https://www.canva.com/design/DAFqRbzR2po/Qp3PKXgUy-lPeoDOZmPVcA/edit
